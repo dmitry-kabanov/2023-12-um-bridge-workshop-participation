@@ -1,0 +1,12 @@
+name: um-bridge-workshop
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - pymc>=5
+  - pip
+  - pip:
+    - umbridge
+    - qmcpy

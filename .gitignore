@@ -1,0 +1,5 @@
+tsunami_output/
+
+# Environment personal files
+autoenv-enter.zsh
+autoenv-leave.zsh
